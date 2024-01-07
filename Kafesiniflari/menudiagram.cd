@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kafesiniflari.menukalitim">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQAAAAACAUAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>menukalitim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.Personelkayit">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAABAEAAAAAAAAQAAAAAAABAAAAAAACAAgA=</HashCode>
+      <FileName>Personelkayit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.452" />
+  </Class>
+  <Class Name="Kafesiniflari.corba">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>corba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.dondurma">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAgAACIAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dondurma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.icecek">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>icecek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.tatli">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhAAAAAAAAAAAAKAAgAACAEAAAAgAAAA=</HashCode>
+      <FileName>tatli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.yemekler">
+    <Position X="15.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>yemekler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.pasta">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pasta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.soguk">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgIAAABAAABAAAAAAAAAAJADAAAApAAAAAAAAQA=</HashCode>
+      <FileName>soguk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.sicak">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAABABAAAAAAAAAAAAAAAIABAAAAAAAA=</HashCode>
+      <FileName>sicak.cs</FileName>
+      <NewMemberFileName>soguk.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kafesiniflari.donabstrack">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>donabstrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Kafesiniflari.Ipersonelkayit">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAEAAAAUAAAAAAAAAAABAAAAAAACAAgA=</HashCode>
+      <FileName>Ipersonelkayit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
